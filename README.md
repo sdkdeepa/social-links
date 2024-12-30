@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/sdkdeepa/social-links
-- Live Site URL: [live site](https://https://sdkdeepa.github.io/social-links)
+- Live Site URL: [live site](https://sdkdeepa.github.io/social-links)
 
 
 ## Built with
