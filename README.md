@@ -8,12 +8,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
+## Overview
 ### The challenge
 Users should be able to:
 
@@ -21,7 +19,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop View](assets/screenshots/1.png)
+![Desktop View with state](assets/screenshots/1.png)
+<hr />
+
 ![Mobile View](assets/screenshots/2.png)
 
 ### Links
@@ -34,17 +34,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+I was having trouble in the circular image, fixed it by making the height and wight to 100%.Also for smaller devices, had to align the text to the center inside the media query.
 
 ## Author
 
